@@ -1,0 +1,9 @@
+英文简称	英文全称	中文名称	中文释意	公式
+NOPLAT	Net Operating Profits Less  Adjusted Taxes 	扣除调整税后的净营业利润	扣除核心经营活动所得税后的核心经营活动产生的利润	
+IC 	Invested Captial	投入资本	公司在核心经营活动上投入的累计数额	
+NI	Net Invested	净投资	本期新增投资额	
+FCF	Free Cash Flow	自由现金流	扣除新增投资后的核心经营活动产生的现金流	FCF=NOPLAT-NI
+ROIC	Return on Invested Capital	投入资本回报率	公司投入一美元获得的回报	ROIC=NOPLAT/IC
+IR	Investment Rate	投资率	NOPLAT中投入到公司的比例	IR=NI/NOPLAT
+WACC	Weighted Average Cost of Captial	加权平均资本成本	投资者预期从所投资公司所获得的回报率	
+g	growth	增长率	公司每年NOPLAT和现金流的增长率	g=ROIC*IR
